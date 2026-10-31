@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Diário Escolar",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Tradicional Rodrigues",
+  "start_url": "/",
+  "theme_color": "#0e5971",
+  "id": "/diario",
+  "description": "Diário Escolar completo desenvolvido para o acompanhamento prático de notas e frequência."
+}
